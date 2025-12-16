@@ -1,5 +1,7 @@
 # amis. - Secure Decentralized Escrow
 
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289da?logo=discord&logoColor=white)](https://discord.gg/nRFU9rFVa)
+
 Facilitating secure, transparent, and decentralized escrow for diverse peer-to-peer exchanges.
 
 ---
