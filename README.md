@@ -72,10 +72,6 @@ To compile and deploy the smart contract locally (e.g., on a Hardhat local netwo
     ```
     *(Note: The exact deployment script may vary based on your Hardhat configuration.)*
 
-## Contact
-
-You can reach me on Discord: `tonyrav3n` or X: `@0xtonyraven`.
-
 ## Screenshots
 
 ![Screenshot 1](assets/Screenshot_20251216_003547.png)
