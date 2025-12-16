@@ -76,4 +76,8 @@ You can reach me on Discord: `tonyrav3n` or X: `@0xtonyraven`.
 
 ## Screenshots
 
-*(Placeholder: Please add screenshots of the frontend application interacting with the smart contracts here to visually showcase the project.)*
+![Screenshot 1](assets/Screenshot_20251216_003547.png)
+![Screenshot 2](assets/Screenshot_20251216_003619.png)
+![Screenshot 3](assets/Screenshot_20251216_003806.png)
+![Screenshot 4](assets/Screenshot_20251216_003904.png)
+![Screenshot 5](assets/Screenshot_20251216_011337.png)
