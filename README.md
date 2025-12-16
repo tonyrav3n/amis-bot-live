@@ -12,11 +12,11 @@ The `amis.` project aims to provide a robust framework for **secure, trustless, 
 
 The `amis.` ecosystem comprises three main components:
 
-1.  **Frontend (Private):** A web application for users to interact with the escrow system, manage trades, and connect their wallets. This component is kept private to protect proprietary UI/UX designs and integrations. It showcases the user experience and interaction with the underlying smart contracts.
-2.  **Backend Bot (Private):** A Discord bot and its associated backend services that handle user commands, orchestrate trade setups, manage Discord-specific interactions, and communicate with the smart contracts on behalf of users. This component is also private for intellectual property and security considerations.
-3.  **Smart Contracts (Public - This Repository):** The Solidity smart contracts deployed on the blockchain that manage the escrow logic, USDC token transfers, and trade state. These contracts are fully open-source and auditable, forming the trust layer of the `amis.` protocol.
+1.  **Frontend:** A web application for users to interact with the escrow system, manage trades, and connect their wallets. This component is kept private to protect proprietary UI/UX designs and integrations. It showcases the user experience and interaction with the underlying smart contracts.
+2.  **Backend:** A Discord bot and its associated backend services that handle user commands, orchestrate trade setups, manage Discord-specific interactions, and communicate with the smart contracts on behalf of users. This component is also private for intellectual property and security considerations.
+3.  **Smart Contracts:** The Solidity smart contracts deployed on the blockchain that manage the escrow logic, USDC token transfers, and trade state. These contracts are fully open-source and auditable, forming the trust layer of the `amis.` protocol.
 
-The Frontend and Backend Bot interact with these Smart Contracts to create, fund, and release escrowed assets, ensuring transparency and immutability for all trade participants.
+The Frontend and Backend interact with these Smart Contracts to create, fund, and release escrowed assets, ensuring transparency and immutability for all trade participants.
 
 ## Technologies Used
 
